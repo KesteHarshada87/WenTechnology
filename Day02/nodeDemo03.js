@@ -17,4 +17,7 @@ console.log(undefined == 0);
 console.log(undefined >= 0);
 console.log(undefined <= 0);
 
+console.log(null == undefined);
+console.log(NaN == NaN);
+
 console.log("2" === 2);
